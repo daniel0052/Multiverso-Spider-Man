@@ -7,3 +7,5 @@ Foi feito uma página com o tema do Homem-Aranha com um efeito de carrossel para
 No site, é possível clicar na imagem ou no nome do ator que interpretou o Homem-Aranha. Em seguida, o usuário será redirecionado para outra página que contém informações detalhadas sobre o personagem, incluindo filmes, trailers e imagens.
 
 ![image](https://github.com/user-attachments/assets/f1bef0f9-cbba-465e-8b65-679615ea0132)
+
+Site: https://daniel0052.github.io/Multiverso-Spider-Man/index.html
